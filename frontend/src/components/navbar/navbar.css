@@ -1,0 +1,17 @@
+.navbarContainer {
+  height: 50px;
+  width: 100%;
+  background-color: #1877f2;
+  display: flex;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+}
+
+.navbarBtn {
+  margin: 0 2px 0 20px;
+  cursor: pointer;
+}

@@ -1,0 +1,7 @@
+PUT http://localhost:8800/api/users/61ed8aa586d274d5e9a4ecb6
+Content-Type: application/json
+
+{
+    "email": "Jane2@test.com",
+    "userID": "61ed8aa586d274d5e9a4ecb6"
+}
